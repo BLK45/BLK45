@@ -5,7 +5,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [...](...)-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Portfolio: https://eng-portfolio-chayanon.vercel.app</h3>
 <p align="left">
 </p>
 
